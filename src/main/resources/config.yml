@@ -1,0 +1,9 @@
+# Prefixの設定
+# カラーコードが使用できます
+Prefix: "&e[&aSimpleReplace&e]&r"
+
+# 1Tick当たりに置き換えるブロックの上限数
+blocksPerTick: 500
+
+#選択範囲の保存用
+ranges:

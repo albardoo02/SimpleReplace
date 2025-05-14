@@ -1,0 +1,10 @@
+name: SimpleReplace
+version: '${project.version}'
+main: com.github.albardoo02.SimpleReplace
+api-version: '1.15'
+authors: [albardoo02]
+description: 設定範囲を別のブロックに置き換える
+
+commands:
+  simplereplace:
+    aliases: [sr, replace, replaceblock]
